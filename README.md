@@ -5,4 +5,6 @@ Sudokusolve is (yet another) Java-based sudoku solver with the following key fea
 * **Comprehensibility**: By using these techniques, the solver can provide accurate output about the solving process and the techniques used. Subsequently, a 'hint' process is also possible.
 * **Portability**: Through the optimizing of the key solving algorithm, it can be applied in various other languages and environments.
 
+![screenshot](https://a.fsdn.com/con/app/proj/sudokusolve/screenshots/91680.jpg)
+
 More info on http://sudokusolve.sourceforge.net/
